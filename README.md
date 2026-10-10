@@ -127,16 +127,6 @@
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/santhosandhavarapu25-ops/santhosandhavarapu25-ops/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
