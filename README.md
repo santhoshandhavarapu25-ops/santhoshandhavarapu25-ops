@@ -24,24 +24,6 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const santhosh = {
-    education: "B.Tech in Computer Science Engineering",
-    role: "Aspiring Full Stack Developer",
-    interests: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Full Stack Development",
-        "Data Structures & Algorithms"
-    ],
-    currentlyBuilding: "AI Drug Analyzer",
-    goal: "Build useful, scalable, and intelligent applications",
-    motto: "Learn continuously. Build consistently. Improve every day."
-};
-
-console.log("Welcome to my GitHub profile!");
-```
-
 - 🎓 Computer Science Engineering student at Vardhaman College of Engineering.
 - 💻 Developing web applications and exploring full-stack technologies.
 - 🤖 Interested in integrating AI and machine learning into real-world projects.
@@ -152,17 +134,6 @@ console.log("Welcome to my GitHub profile!");
   <img src="https://raw.githubusercontent.com/santhosandhavarapu25-ops/santhosandhavarapu25-ops/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 
 </div>
-
----
-
-## 🎯 Current Goals
-
-- [x] Build web development projects.
-- [x] Explore AI-powered application development.
-- [ ] Strengthen Data Structures and Algorithms.
-- [ ] Develop more full-stack applications.
-- [ ] Explore local LLM deployment and computer vision.
-- [ ] Contribute to open-source projects.
 
 ---
 
