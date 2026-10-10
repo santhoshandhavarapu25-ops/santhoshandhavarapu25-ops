@@ -194,13 +194,13 @@ console.log("Welcome to my GitHub profile!");
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/santhoshandhavarapu25-ops">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/santhosh-andhavarapu-a14b1a326/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:santhoshandhavarapu25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 
